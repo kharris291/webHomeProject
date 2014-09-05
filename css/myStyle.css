@@ -1,0 +1,29 @@
+body {
+    background: #f8f7f5;
+    padding-top: 50px;
+}
+
+.hidden {display: none}
+
+.clear-both{
+    clear: both;
+}
+
+.subnav-spacer {
+    height:50px;
+}
+
+/***** Top-nav ******/
+
+nav.navbar a.brand {
+    background-repeat: no-repeat;
+    width:30%;
+    height: 500px;
+    font-size: 100%;
+    padding:0;
+    margin:4px 0 0 0;
+}
+
+nav .tab-listing-menu{
+    visibility: hidden;
+}
